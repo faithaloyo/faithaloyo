@@ -12,8 +12,8 @@ https://d17jq94s3swa7t.cloudfront.net
 
 ATTRIBUTES
 
-readme file made from GitHub
+   readme file made from GitHub
 
-code edited from sublime text
+   code edited from sublime text
 
 by.Faith Sheila Aloyojok
